@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="gentoo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-ydpi="200.02448"
+   inkscape:export-xdpi="200.02448"
+   inkscape:export-filename="C:\Users\naurias\bitmap4.png"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths."
+       hide_clip="false"
+       flatten="false"
+       inverse="true"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect78"
+       effect="powerclip" />
+    <clipPath
+       id="clipPath74"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path76"
+         d="m 60.887287,200.67278 c -9.101492,-2.02512 -15.596682,-9.41276 -16.042801,-18.24711 -0.390589,-7.73484 2.451761,-11.83864 15.4197,-22.26313 3.964831,-3.18719 6.207331,-5.36187 6.31658,-6.12553 0.178469,-1.24746 -0.68475,-1.89719 -7.9936,-6.01665 -6.701649,-3.77723 -11.355879,-9.19882 -12.013099,-13.99375 -1.424831,-10.39525 13.697299,-26.13338 28.90315,-30.08053 11.449229,-2.972 27.105563,1.57841 42.249923,12.27966 10.19591,7.2046 21.14853,19.37593 23.86196,26.51716 2.68097,7.05574 -0.0827,12.87558 -11.16233,23.50623 -9.77141,9.37542 -23.79989,18.97066 -38.549713,26.36734 -14.584862,7.31396 -23.68905,9.68075 -30.98977,8.05631 z"
+         style="display:none;fill:#2e3440;fill-opacity:1;stroke-width:0.53454" />
+      <path
+         d="M -162.09425,9.8900146 H 364.97716 V 314.71146 H -162.09425 Z M 60.887287,200.67278 c 7.30072,1.62444 16.404908,-0.74235 30.98977,-8.05631 14.749823,-7.39668 28.778303,-16.99192 38.549713,-26.36734 11.07963,-10.63065 13.8433,-16.45049 11.16233,-23.50623 -2.71343,-7.14123 -13.66605,-19.31256 -23.86196,-26.51716 -15.14436,-10.70125 -30.800694,-15.25166 -42.249923,-12.27966 -15.205851,3.94715 -30.327981,19.68528 -28.90315,30.08053 0.65722,4.79493 5.31145,10.21652 12.013099,13.99375 7.30885,4.11946 8.172069,4.76919 7.9936,6.01665 -0.109249,0.76366 -2.351749,2.93834 -6.31658,6.12553 -12.967939,10.42449 -15.810289,14.52829 -15.4197,22.26313 0.446119,8.83435 6.941309,16.22199 16.042801,18.24711 z"
+         class="powerclip"
+         style="fill:#2e3440;fill-opacity:1;stroke-width:0.53454"
+         id="lpe_path-effect78" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="837"
+     inkscape:window-width="1600"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="857.8773"
+     inkscape:cx="-2.8758325"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 2"
+     id="layer2"
+     inkscape:groupmode="layer" />
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       inkscape:export-ydpi="200"
+       inkscape:export-xdpi="200"
+       transform="matrix(0.35921352,0,0,0.37940526,-87.843999,172.99667)"
+       id="g99">
+      <g
+         transform="translate(78.04612,-115.21238)"
+         id="g303">
+        <path
+           inkscape:export-ydpi="400"
+           inkscape:export-xdpi="400"
+           inkscape:path-effect="#path-effect78"
+           d="M -157.09425,14.890015 H 359.97716 V 309.71146 h -517.07141 z"
+           transform="translate(342.90841,-108.83985)"
+           sodipodi:type="rect"
+           clip-path="url(#clipPath74)"
+           y="14.890015"
+           x="-157.09425"
+           height="294.82144"
+           width="517.07141"
+           id="rect40"
+           style="fill:#2e3440;fill-opacity:1;stroke-width:0.264583" />
+        <path
+           inkscape:export-ydpi="400"
+           inkscape:export-xdpi="400"
+           id="path90"
+           d="m 434.50223,25.147221 c -0.5547,-0.0442 -1.44028,-0.15883 -1.65976,-0.21476 -0.61372,-0.15642 -1.08328,-0.35999 -2.27584,-0.98668 -2.00318,-1.05262 -2.39958,-1.33102 -3.62386,-2.5449 -1.01661,-1.00795 -1.4114,-1.54654 -1.64701,-2.24692 -0.29506,-0.87704 -0.0896,-1.91331 0.57743,-2.91176 0.25829,-0.38667 0.78827,-0.92277 1.14549,-1.15869 1.10151,-0.7275 2.68875,-1.09194 4.08553,-0.93808 1.68302,0.18539 3.77783,1.11789 5.21878,2.32309 1.42396,1.191 2.57392,2.88483 2.83787,4.18005 0.17661,0.86661 0,1.96151 -0.45085,2.81104 -0.39228,0.73749 -0.90882,1.16853 -1.73197,1.44518 -0.53242,0.17896 -0.89678,0.23286 -1.65729,0.24519 -0.35833,0.006 -0.72666,0.004 -0.81852,-0.003 z"
+           style="fill:#2e3440;fill-opacity:1;stroke-width:0.0334087" />
+      </g>
+    </g>
+  </g>
+</svg>
